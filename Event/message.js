@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-const prefix = ""
+const prefix = "!"
 
 module.exports = async(client, message) => {
 
